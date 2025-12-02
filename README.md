@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**shauryabhaskar/shauryabhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Shaurya Bhaskar, an AI and software engineering enthusiast from India.
 
-Here are some ideas to get you started:
+I build things that blend creativity with code, especially AI systems that can generate, visualize, and automate ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a concept interests me, I’ll experiment with it, refine it, and ship it.
+
+My primary tech stack consists of Python, Java, Stable Diffusion XL, LoRA, ControlNet, and OpenCV. My favorite tools are VS Code, Jupyter Notebook, and GitHub Copilot.
+
+I have a number of pinned projects, but my favorite is Comic Crafter AI.
+
+More projects are on the way, and I’m also getting into cybersecurity.
+
+Fun Facts:
+I love training AI models and building creative tools
+I go to the gym and want an athletic, functional physique
+I prefer clean, logical code over complicated solutions
+Hobbies: sports, gym, building things
+
