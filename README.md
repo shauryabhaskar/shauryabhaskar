@@ -16,5 +16,7 @@ Fun Facts:
 I love training AI models and building creative tools
 I go to the gym and want an athletic, functional physique
 I prefer clean, logical code over complicated solutions
+
+
 Hobbies: sports, gym, building things
 
